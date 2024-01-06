@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[Imgur](https://i.imgur.com/p1ldDfg.gifv)
-<img src='[https://i.imgur.com/p1ldDfg.gifv](https://i.imgur.com/p1ldDfg.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://i.imgur.com/p1ldDfg.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Flixier and Imgur
