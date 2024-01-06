@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 [Video Walkthrough](https://i.imgur.com/p1ldDfg.gifv)
-(https://imgur.com/a/2msypLl)
+<img src="https://imgur.com/a/2msypLl"/>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Flixier and Imgur
 <!-- Recommended tools:
