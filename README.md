@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![Video Walkthrough](https://github.com/yourvivian/web102_prework/assets/87792873/1e7da7be-d447-439f-8931-6da0a212f158)
+
 [Imgur](https://i.imgur.com/p1ldDfg.gifv)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Flixier and Imgur
